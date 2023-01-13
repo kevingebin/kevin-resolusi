@@ -9,3 +9,4 @@ RENCANA KONTEN
  ^ Laravel
 -Vlog
 -Python
+-React
