@@ -3,8 +3,11 @@ RENCANA KONTEN
 -Javascript
   * ES6
   * Framework Javascript
-   ^ Angular
    ^ React
+    ^ Vue
+-Struktur data dasar
 -PHP
  ^ Laravel
 -Vlog
+-Python
+-React
